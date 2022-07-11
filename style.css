@@ -1,0 +1,28 @@
+body{
+  background-color:#000000;
+}
+
+#controle{
+  background-color:#eeeeec;
+  width:80%;
+  border-radius:20px;
+}
+
+hr{
+  width:180px;
+}
+#caixa{
+  width:480px;
+  background-color:gray;
+  border-radius:20px;
+}
+
+#box{
+  border: 1px solid black;
+  height: 50px;
+  width: 50px;
+  margin-top: 50px;
+  margin-left: 50px;
+  background-color: rgb(238, 238, 236);
+}
+
