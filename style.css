@@ -12,6 +12,8 @@ hr{
   width:180px;
 }
 #caixa{
+  position:auto;
+  height:580px;
   width:480px;
   background-color:gray;
   border-radius:20px;
@@ -25,4 +27,3 @@ hr{
   margin-left: 50px;
   background-color: rgb(238, 238, 236);
 }
-
